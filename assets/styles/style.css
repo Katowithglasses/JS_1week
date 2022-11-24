@@ -1,0 +1,10 @@
+
+.contain{
+    background-color: rgb(137, 76, 242);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+    margin-top: 300px;
+};
