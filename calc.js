@@ -15,7 +15,7 @@ function clickMinus(){
     let b = Number(srt2);
 
     let result = a-b;
-alert(`Сумма равна:${result}`);
+alert(`результат вычитания:${result}`);
 }
 
 function clickMultiply(){
@@ -25,7 +25,7 @@ function clickMultiply(){
     let b = Number(srt2);
 
     let result = a*b;
-alert(`Сумма равна:${result}`);
+alert(`Результат умножения:${result}`);
 }
 
 function clickDivide(){
@@ -35,5 +35,5 @@ function clickDivide(){
     let b = Number(srt2);
 
     let result = a/b;
-alert(`Сумма равна:${result}`);
+alert(`Результат деления:${result}`);
 }
